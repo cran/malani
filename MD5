@@ -1,0 +1,15 @@
+cab6a41435ce0ff2dafb43a4707c4471 *DESCRIPTION
+31be7bfae67d8a326ba7a35964ee6056 *NAMESPACE
+fed1219251c14edd75dc396742e73e8e *R/Gsvmod.R
+6d7f0b520bec3b55943a9b9f62254d27 *R/dat.R
+22899c5f7974ed955db8e1e5e9879f35 *R/grp.R
+ecb77bb7b3caf73fe90e3b57f8a3e541 *R/intGenes.R
+3a3681c7bae0d57f4ac0cb97cbd21f94 *R/malanidata.R
+d95335341ff64369efd6e2097718c2c3 *R/pairmod.R
+3229531eb40969fc142ce23063dc3ecc *data/malanidata.rda
+742d3f2eec9b46587e966f7f281073f6 *man/Gsvmod.Rd
+facb6438259fa5d2b6cb902d30fdcea6 *man/dat.Rd
+f3e958246978603f3d331e7415c8c016 *man/grp.Rd
+3937a7b9c501b95421fd63104953f35f *man/intGenes.Rd
+06546cb6d68d00e0d2f3402bfd2e6037 *man/malanidata.Rd
+38711ee390d8dc87e02b902b57775bff *man/pairmod.Rd
